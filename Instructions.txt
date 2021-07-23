@@ -1,0 +1,6 @@
+The "dist" folder contains the production files. Running with a web server for testing. For example live-server
+
+The "frontend" folder contains the development files. To run the project (It is necessary to install Quasar CLI previously) write in console: 
+	npm i
+and then
+	quasar dev
